@@ -53,8 +53,8 @@ A JSON output in this format:
 
 # Reporting
 1. Import this repo into a private repo (you can use Bitbucket for free private repos).
-2. add a new folder `output` and put your PHP file inside it.
-3. Make `LawSikho` a User with read access on your private repo in Bitbucket
+2. Add a new folder `output` and put your PHP file inside it.
+3. Make `LawSikho` a User with read access on your private repo in Bitbucket.
 
 # Questions
 Create new issues in this repo for any questions to get answered.
